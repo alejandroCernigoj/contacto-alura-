@@ -6,6 +6,8 @@ body{
 header{
     background-color: #888888;
 }
+.pad{
+    padding: 0 0 0 5%;
 .caja{
     width: 940px;
     position: relative;
